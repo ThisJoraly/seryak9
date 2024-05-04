@@ -1,0 +1,35 @@
+body {
+    font-family: "Comic Sans MS", sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+button {
+    font-family: "Comic Sans MS", sans-serif;
+
+    background-color: darkslateblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
+#track-list {
+    margin-top: 20px;
+}
+
+.track-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+button {
+
+}
+
+.track-item h3 {
+    margin: 0 0 5px;
+}
